@@ -56,7 +56,8 @@ static NSBundle *mj_systemI18nBundle = nil;
     
     // 如果没有缓存, 则走初始化逻辑
     if (mj_defaultI18nBundle == nil) {
-        NSString *language = MJRefreshConfig.defaultConfig.languageCode;
+        // NSString *language = MJRefreshConfig.defaultConfig.languageCode;
+        NSString *language = [[NSUserDefaults standardUserDefaults] objectForKey:@"Language"];
         // 如果配置中没有配置语言
         if (!language) {
             language = [NSLocale preferredLanguages].firstObject;
