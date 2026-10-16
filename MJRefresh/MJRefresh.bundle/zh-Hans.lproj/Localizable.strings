@@ -1,19 +1,19 @@
-"MJRefreshHeaderIdleText" = "المنسدلة يمكن تحديث";
-"MJRefreshHeaderPullingText" = "الافراج عن التحديث الفوري";
-"MJRefreshHeaderRefreshingText" = "تحديث البيانات . . . . ـ";
+"MJRefreshHeaderIdleText" = "下拉可以刷新";
+"MJRefreshHeaderPullingText" = "松开立即刷新";
+"MJRefreshHeaderRefreshingText" = "正在刷新数据中...";
 
-"MJRefreshTrailerIdleText" = "انزلاق عرض التفاصيل";
-"MJRefreshTrailerPullingText" = "الافراج عن عرض التفاصيل";
+"MJRefreshTrailerIdleText" = "滑动查看图文详情";
+"MJRefreshTrailerPullingText" = "释放查看图文详情";
 
-"MJRefreshAutoFooterIdleText" = "انقر فوق أو سحب على تحميل المزيد";
-"MJRefreshAutoFooterRefreshingText" = "تحميل المزيد من البيانات . . . . ـ";
-"MJRefreshAutoFooterNoMoreDataText" = "تحميل كامل";
+"MJRefreshAutoFooterIdleText" = "点击或上拉加载更多";
+"MJRefreshAutoFooterRefreshingText" = "正在加载更多的数据...";
+"MJRefreshAutoFooterNoMoreDataText" = "已经全部加载完毕";
 
-"MJRefreshBackFooterIdleText" = "سحب ما يصل يمكن تحميل أكثر";
-"MJRefreshBackFooterPullingText" = "الإفراج عن التحميل الفوري أكث";
-"MJRefreshBackFooterRefreshingText" = "تحميل المزيد من البيانات . . . . ـ";
-"MJRefreshBackFooterNoMoreDataText" = "تحميل كامل";
+"MJRefreshBackFooterIdleText" = "上拉可以加载更多";
+"MJRefreshBackFooterPullingText" = "松开立即加载更多";
+"MJRefreshBackFooterRefreshingText" = "正在加载更多的数据...";
+"MJRefreshBackFooterNoMoreDataText" = "已经全部加载完毕";
 
-"MJRefreshHeaderLastTimeText" = "آخر تحديث من قبل ：";
-"MJRefreshHeaderDateTodayText" = "اليوم";
-"MJRefreshHeaderNoneLastDateText" = "بدون تسجيل";
+"MJRefreshHeaderLastTimeText" = "最后更新：";
+"MJRefreshHeaderDateTodayText" = "今天";
+"MJRefreshHeaderNoneLastDateText" = "无记录";
